@@ -42,6 +42,11 @@ input::placeholder{
     color: #ffffff;
 }
 
+h1{
+    color: white;
+    padding: 5rem;
+}
+
 button{
     border: none;
     width: 60px;
